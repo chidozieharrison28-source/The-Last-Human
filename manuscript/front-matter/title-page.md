@@ -1,21 +1,15 @@
 # THE LAST HUMAN
 
-## A Science Fiction Novel
+## One Choice Will Define Them All
 
----
+### A Science-Fiction Novel
 
-### Written by
+**Written by**
 
 # Okoye Harrison Chidozie
 
----
-
-> *"When humanity disappeared, hope did not."*
+### CodeTales Africa Studios
 
 ---
 
-Version 1.0
-
-CodeTales Africa Publishing
-
-2026
+*When the world fell, hope was reborn.*
