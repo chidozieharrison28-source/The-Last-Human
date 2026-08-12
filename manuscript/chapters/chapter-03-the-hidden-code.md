@@ -48,6 +48,8 @@ Underneath it were three words.
 
 **WE REMEMBER HUMANITY**
 
+![Resistance base](../../images/cities/resistance-base.png)
+
 His fingers brushed across the old paint.
 
 It wasn't crumbling.
@@ -203,6 +205,8 @@ Powered.
 Working.
 
 Someone was inside.
+
+![Atlas laboratory](../../images/cities/atlas-laboratory.png)
 
 Before Ethan could move closer...
 
@@ -388,6 +392,8 @@ Artificial sunlight.
 
 Someone had built a hidden home beneath the city.
 
+![Hidden underground city](../../images/cities/underground-city.png)
+
 Standing in the center of the room was an elderly man.
 
 His hair was completely white.
@@ -439,6 +445,8 @@ He picked up an old photograph.
 Carefully...
 
 He handed it to Ethan.
+
+![Project Genesis scientists](../../images/project-genesis-scientists.png)
 
 Ethan's hands trembled.
 
@@ -560,6 +568,8 @@ Australia.
 
 Even Antarctica.
 
+![Project Genesis Network](../../images/project-genesis-network.png)
+
 Ethan slowly circled the projection.
 
 "There are hundreds of them."
@@ -587,6 +597,8 @@ Genetic preservation centers.
 Orbital communication hubs.
 
 Quantum computing facilities.
+
+![Project Genesis Cryogenic Vault](../../images/cryogenic-vault.png)
 
 Ethan's expression hardened.
 
