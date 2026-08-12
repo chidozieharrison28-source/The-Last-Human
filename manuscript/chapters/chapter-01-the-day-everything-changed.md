@@ -6,6 +6,8 @@
 
 ---
 
+![The world after the collapse](../../images/cities/world-after-collapse.png)
+
 ## Scene 1 — The Awakening
 
 Darkness.

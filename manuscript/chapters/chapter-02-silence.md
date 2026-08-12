@@ -28,7 +28,8 @@ Birds nested inside shattered office buildings.
 
 The city was alive.
 
-Yet no human voice could be heard.
+
+![Abandoned city](../../images/cities/abandoned-new-york.png) Yet no human voice could be heard.
 
 Ethan slowly walked forward.
 
@@ -47,6 +48,8 @@ Others had become homes for small animals.
 He knelt beside one.
 
 The faded company logo was barely visible.
+
+![Abandoned futuristic vehicle](../../images/vehicles/futuristic-car.png)
 
 He placed a hand on the weathered metal.
 
@@ -134,6 +137,8 @@ Others swept leaves from pathways.
 
 Several drones trimmed overgrown branches.
 
+![Maintenance drones](../../images/robots/maintenance-drone.png)
+
 The city had never been abandoned.
 
 It had simply changed caretakers.
@@ -212,6 +217,8 @@ No police officers.
 
 Yet everything moved with flawless precision.
 
+![The Smart City](../../images/cities/crystal-plaza.png)
+
 "It's... perfect," Ethan whispered.
 
 Nova answered carefully.
@@ -281,6 +288,10 @@ Its display flickered.
 Then a new message appeared.
 
 > **UNKNOWN LIFE FORM DETECTED**
+
+![surveillance-drone.png](../../images/vehicles/surveillance-drone.png)
+
+
 
 A soft chime echoed through the square.
 
@@ -937,6 +948,8 @@ Ethan felt a chill.
 Before Nova could respond, the tablet emitted a soft chime.
 
 A new file had appeared.
+
+![Surveillance drone](../../images/robots/surveillance-drone.png)
 
 Its sender was listed as:
 
