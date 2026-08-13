@@ -688,6 +688,10 @@ Behind him, dozens of scientists rushed between computer stations.
 
 Warning alarms echoed throughout the facility.
 
+![Project Genesis global collapse](../../images/concept-art/key-scenes/project-genesis-global-collapse.png)
+
+
+
 The recorded Ethan looked directly into the camera.
 
 > "If you're watching this..."
