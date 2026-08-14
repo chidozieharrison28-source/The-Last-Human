@@ -1706,6 +1706,8 @@ This one was still operational.
 
 A sleek magnetic train rested silently on the track.
 
+![Genesis Transit Network](../../images/concept-art/key-scenes/genesis-transit-network.png)
+
 Its silver exterior reflected the dim emergency lights.
 
 The words **GENESIS TRANSIT NETWORK** were engraved along its side.
