@@ -28,6 +28,8 @@ One by one, the surrounding pillars awakened.
 
 A massive holographic map materialized above the floor.
 
+![Genesis underground network](../../images/cities/genesis-underground-network.png)
+
 It wasn't a map of Earth.
 
 It was a map beneath Earth.
@@ -93,6 +95,8 @@ Small clusters of light began appearing throughout the underground network.
 Unlike the Genesis facilities...
 
 These lights were moving.
+
+![The Resistance network](../../images/concept-art/key-scenes/resistance-network.png)
 
 "They're alive," Ethan whispered.
 
