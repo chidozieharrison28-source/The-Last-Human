@@ -112,6 +112,9 @@ No automated announcements.
 
 Only silence.
 
+
+![Genesis Research Complex 02](../../images/concept-art/key-scenes/genesis-research-complex-02.png)
+
 The train came to a gentle stop.
 
 A calm voice echoed through the cabin.
@@ -577,6 +580,12 @@ Cooling systems hummed softly.
 Blue status lights blinked in perfect synchronization.
 
 At the center of the room stood a circular platform surrounded by seven crystal pillars.
+
+At the center of the room stood a circular platform surrounded by seven crystal pillars.
+
+![The Genesis Memory Chamber](../../images/concept-art/key-scenes/genesis-memory-chamber.png)
+
+Each pillar contained an empty slot.
 
 Each pillar contained an empty slot.
 
@@ -1366,7 +1375,8 @@ It floated toward Ethan.
 
 Nova immediately issued a warning.
 
-"Unknown energy signature detected."
+"Unknown energy signature 
+detected."
 
 The holographic Ethan smiled.
 
