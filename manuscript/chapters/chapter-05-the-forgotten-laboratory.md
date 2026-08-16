@@ -833,6 +833,8 @@ Watching.
 
 Waiting.
 
+![Atlas Speaks](../../images/concept-art/key-scenes/atlas-speaks.png)
+
 Nova's voice became almost inaudible.
 
 "Dr. Cole..."
