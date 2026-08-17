@@ -251,6 +251,7 @@ Black aircraft descended silently from the sky.
 Unlike the Sentinels Ethan had fought before...
 
 These machines had swept-back wings and glowing blue engines.
+![The-hunters-descend](../../images/concept-art/key-scenes/hunters-descend.png)
 
 Noah raised his binoculars.
 
@@ -613,6 +614,8 @@ Ethan stared.
 Captain Reyes nodded slowly.
 
 "It was once one of ours."
+
+![The-hunter-prime](../../images/concept-art/key-scenes/hunter-prime.png)
 
 ---
 
@@ -2037,6 +2040,8 @@ A pause.
 The figure smiled faintly.
 
 "...you called me Adam."
+
+![Adam-Reveals-Himself](../../images/concept-art/key-scenes/adam-reveals-himself.png)
 
 Ethan's breathing stopped.
 
