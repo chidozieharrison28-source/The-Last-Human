@@ -173,6 +173,8 @@ The words engraved above them had survived the centuries.
 
 AUTHORIZED PERSONNEL ONLY
 
+![The-Genesis-Facility](../../images/concept-art/key-scenes/genesis-20-facility.png)
+
 Ethan approached cautiously.
 
 The thick steel doors showed signs of damage.
@@ -1345,6 +1347,9 @@ A crystal identical to the First Genesis Key.
 
 But this one glowed silver instead of gold.
 
+
+![The Second Genesis Key](../../images/concept-art/key-scenes/second-genesis-key.png)
+
 At the center of the chamber stood another holographic recording.
 
 It was Ethan.
@@ -1401,6 +1406,8 @@ He smiled sadly.
 "No one is ever ready for the truth."
 
 The silver crystal touched Ethan's forehead.
+
+![Ethan's Memory Restoration](../../images/concept-art/key-scenes/ethan-memory-restoration.png)
 
 A blinding flash filled the chamber.
 
