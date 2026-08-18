@@ -32,6 +32,8 @@ Hidden weapon platforms rose from beneath gardens.
 
 Massive defense drones awakened from underground hangars.
 
+![genesis-zero-falls](../../images/concept-art/key-scenes/genesis-zero-falls.png)
+
 For one hundred and seventy-three years...
 
 The city had waited.
@@ -990,6 +992,8 @@ Captain Reyes stepped backward.
 Nova looked directly at Ethan.
 
 "You are the final authorization."
+
+![The-seventh-key-is-Ethan](../../images/concept-art/key-scenes/Ethan-the-seventh-key.png)
 
 Adam smiled faintly.
 
