@@ -1843,6 +1843,8 @@ Ethan smiled.
 
 His fingertips touched the White Circle.
 
+![the-choice](../../images/concept-art/key-scenes/the-choice.png)
+
 The Genesis Core erupted with blinding white light.
 
 Every machine on Earth stopped moving.

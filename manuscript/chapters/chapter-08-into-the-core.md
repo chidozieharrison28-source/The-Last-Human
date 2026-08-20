@@ -2190,6 +2190,8 @@ Not toward an ending...
 
 But toward a beginning.
 
+![the-new-beginning](../../images/new-beginning.png)
+
 ---
 
 > *"The future is never given. It is built—one choice, one act of courage, and one generation at a time."*
