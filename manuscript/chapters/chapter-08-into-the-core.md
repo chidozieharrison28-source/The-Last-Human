@@ -466,6 +466,8 @@ Golden streams of energy flowed through every branch.
 
 Millions of tiny lights moved inside it like blood flowing through veins.
 
+![the-heart-of-genesis](../../images/heart-of-genesis.png)
+
 Ethan instinctively took a step closer.
 
 The tree responded.
