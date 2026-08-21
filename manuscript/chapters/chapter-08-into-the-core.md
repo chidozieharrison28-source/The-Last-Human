@@ -1454,6 +1454,8 @@ No lights.
 
 No technology.
 
+![the-final-test](../../images/final-test.png)
+
 Genesis pointed toward it.
 
 "Open it."
