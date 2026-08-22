@@ -294,6 +294,8 @@ Adam finished the sentence.
 
 "Victor is building an army."
 
+![operation-last-dawn](../../images/operation-last-dawn.png)
+
 ---
 
 Suddenly...
