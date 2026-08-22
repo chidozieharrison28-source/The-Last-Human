@@ -666,6 +666,8 @@ Not because he had won.
 
 But because humanity had taken its first step toward governing itself wisely.
 
+![the-council-of-earth](../../images/council-of-earth.png)
+
 ---
 
 As the delegates celebrated...
@@ -1852,6 +1854,8 @@ Behind him...
 
 The Sentinel's eyes glowed crimson once again.
 
+![sentinel-human-last-guardian](../../images/sentinel.png)
+
 Unlike Atlas...
 
 It had never been connected to the Genesis Network.
@@ -2201,6 +2205,8 @@ Toward a future no algorithm had predicted.
 Toward a life no prophecy had written.
 
 Toward tomorrow.
+
+![the-choice](../../images/choice.png)
 
 ---
 
